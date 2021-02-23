@@ -1,0 +1,174 @@
+*{
+  background: black;
+font-family: 'Sawarabi Gothic', sans-serif;
+font-size: 21px;
+padding: 8px;
+}
+.window1{
+height: 706px;
+background: #F1DFC3;  
+box-sizing: border-box;
+border: 7px solid black;
+}
+
+.window2{
+height: 706px;
+background: #E3D0AC;
+box-sizing: border-box;
+border: 7px solid black;
+color: #000000;
+}
+
+.window3{
+height: 706px;
+background: #E7D2AA; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #1D1D1D;
+}
+
+.window4{
+height: 706px;
+background: #F4C379;  
+box-sizing: border-box;
+border: 7px solid black;
+color: #2A2A2A;
+}
+
+.window5{
+height: 706px;
+background: #E5BC85;
+box-sizing: border-box;
+border: 7px solid black;
+color: #393939;
+}
+
+.window6{
+height: 706px;
+background: #F0A585; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #434343;
+}
+
+.window7{
+height: 706px;
+background: #E5AD85;
+box-sizing: border-box;
+border: 7px solid black;
+color: #424242;
+}
+
+.window8{
+height: 706px;
+background: #EFC8B4;  
+box-sizing: border-box;
+border: 7px solid black;
+color: #4F4F4F;
+}
+
+.window9{
+height: 706px;
+background: #DCC2B5; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #585858;
+}
+
+.window10{
+height: 706px;
+background: #8AAAB2; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #4F4F4F;
+
+}
+
+.window11{
+height: 706px;
+background: #9AA8B9; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #4F4F4F;
+
+}
+
+.window12{
+height: 706px;
+background: #628DC3;  
+box-sizing: border-box;
+border: 7px solid black;
+color: #4F4F4F;
+
+}
+.window13{
+height: 706px;
+background: #707EB1; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #4F4F4F;
+
+}
+.window14{
+height: 706px;
+background: #506896;  
+box-sizing: border-box;
+border: 7px solid black;
+color: #939393;
+
+}
+
+
+.window15{
+height: 706px;
+background: #4D6898; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #979797;
+
+}
+
+.window16{
+height: 706px;
+background: #6C698F;  
+box-sizing: border-box;
+border: 7px solid black;
+color: #A9A9A9;
+
+}
+
+.window17{
+height: 706px;
+background: #4E4E68; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #B8B8B8;
+
+}
+
+.window18{
+height: 706px;
+background: #433E4B;  
+box-sizing: border-box;
+border: 7px solid black;
+color: #C4C4C4;
+
+}
+
+.window19{
+	height: 706px;
+background: #253244; 
+box-sizing: border-box;
+border: 7px solid black;
+color: #C8C8C8;
+
+}
+
+.window20{
+	height: 706px;
+	background: #24201E; 
+	box-sizing: border-box;
+border: 7px solid black;
+	color: #EEEEEE;
+
+}

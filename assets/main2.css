@@ -4,7 +4,11 @@ font-family: 'Sawarabi Gothic', sans-serif;
 font-size: 21px;
 padding: 8px;
 }
+
 .window1{
+position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #F1DFC3;  
 box-sizing: border-box;
@@ -12,6 +16,9 @@ border: 7px solid black;
 }
 
 .window2{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #E3D0AC;
 box-sizing: border-box;
@@ -20,6 +27,9 @@ color: #000000;
 }
 
 .window3{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #E7D2AA; 
 box-sizing: border-box;
@@ -28,6 +38,9 @@ color: #1D1D1D;
 }
 
 .window4{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #F4C379;  
 box-sizing: border-box;
@@ -36,6 +49,9 @@ color: #2A2A2A;
 }
 
 .window5{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #E5BC85;
 box-sizing: border-box;
@@ -44,6 +60,9 @@ color: #393939;
 }
 
 .window6{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #F0A585; 
 box-sizing: border-box;
@@ -52,6 +71,9 @@ color: #434343;
 }
 
 .window7{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #E5AD85;
 box-sizing: border-box;
@@ -60,6 +82,9 @@ color: #424242;
 }
 
 .window8{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #EFC8B4;  
 box-sizing: border-box;
@@ -68,6 +93,9 @@ color: #4F4F4F;
 }
 
 .window9{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #DCC2B5; 
 box-sizing: border-box;
@@ -76,6 +104,9 @@ color: #585858;
 }
 
 .window10{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #8AAAB2; 
 box-sizing: border-box;
@@ -85,6 +116,9 @@ color: #4F4F4F;
 }
 
 .window11{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #9AA8B9; 
 box-sizing: border-box;
@@ -94,6 +128,9 @@ color: #4F4F4F;
 }
 
 .window12{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #628DC3;  
 box-sizing: border-box;
@@ -102,6 +139,9 @@ color: #4F4F4F;
 
 }
 .window13{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #707EB1; 
 box-sizing: border-box;
@@ -109,7 +149,11 @@ border: 7px solid black;
 color: #4F4F4F;
 
 }
+
 .window14{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #506896;  
 box-sizing: border-box;
@@ -120,6 +164,9 @@ color: #939393;
 
 
 .window15{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #4D6898; 
 box-sizing: border-box;
@@ -129,6 +176,9 @@ color: #979797;
 }
 
 .window16{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #6C698F;  
 box-sizing: border-box;
@@ -138,6 +188,9 @@ color: #A9A9A9;
 }
 
 .window17{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #4E4E68; 
 box-sizing: border-box;
@@ -147,6 +200,9 @@ color: #B8B8B8;
 }
 
 .window18{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 height: 706px;
 background: #433E4B;  
 box-sizing: border-box;
@@ -156,6 +212,9 @@ color: #C4C4C4;
 }
 
 .window19{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 	height: 706px;
 background: #253244; 
 box-sizing: border-box;
@@ -165,6 +224,9 @@ color: #C8C8C8;
 }
 
 .window20{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 	height: 706px;
 	background: #24201E; 
 	box-sizing: border-box;
@@ -172,3 +234,25 @@ border: 7px solid black;
 	color: #EEEEEE;
 
 }
+
+@media only screen and (min-width: 600px) {
+  .window1 {width: 450px}
+  .window2 {width: 450px;}
+  .window3 {width: 450px;}
+  .window4 {width: 450px;}
+  .window5 {width: 450px;}
+  .window6 {width: 450px;}
+  .window7 {width: 450px;}
+  .window8 {width: 450px;}
+  .window9 {width: 450px;}
+  .window10 {width: 450px;}
+  .window11 {width: 450px;}
+  .window12 {width: 450px;}
+  .window13 {width: 450px;}
+  .window14 {width: 450px;}
+  .window15 {width: 450px;}
+  .window16 {width: 450px;}
+  .window17 {width: 450px;}
+  .window18 {width: 450px;}
+  .window19 {width: 450px;}
+  .window20 {width: 450px;}
